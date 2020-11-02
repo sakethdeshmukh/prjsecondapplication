@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30517.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CsharpBasics", "CsharpBasics\CsharpBasics.csproj", "{067C8551-BEDB-49D0-9065-01E142DF2709}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Methods", "Methods\Methods.csproj", "{88E77CEA-FB97-4FF6-83DE-978DEA8964AB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{067C8551-BEDB-49D0-9065-01E142DF2709}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{067C8551-BEDB-49D0-9065-01E142DF2709}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{067C8551-BEDB-49D0-9065-01E142DF2709}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{067C8551-BEDB-49D0-9065-01E142DF2709}.Release|Any CPU.Build.0 = Release|Any CPU
+		{88E77CEA-FB97-4FF6-83DE-978DEA8964AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88E77CEA-FB97-4FF6-83DE-978DEA8964AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88E77CEA-FB97-4FF6-83DE-978DEA8964AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88E77CEA-FB97-4FF6-83DE-978DEA8964AB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C7083FBB-6DDB-4821-9B25-4465483AE59C}
+	EndGlobalSection
+EndGlobal

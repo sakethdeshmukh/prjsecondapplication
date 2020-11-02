@@ -16,7 +16,7 @@ namespace Methods
         //method with string return type
         string Getname()
         {
-            return "saketh";
+            return "Manoj";
 
         }
         //method with int return type
